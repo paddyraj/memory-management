@@ -1,0 +1,10 @@
+05:05:27 **** Incremental Build of configuration Debug for project SensorDataMg ****
+make all 
+'Building target: SensorDataMg'
+'Invoking: Cross GCC Linker'
+gcc  -o "SensorDataMg"  ./main.o   
+'Finished building target: SensorDataMg'
+' '
+
+05:05:28 Build Finished. 0 errors, 0 warnings. (took 356ms)
+
